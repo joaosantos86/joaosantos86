@@ -1,4 +1,10 @@
-<h2 align="left">Hi👋! My name is João and I'm a Aspiring developer</h2>
+<h2 align="left">Hi👋! My name is João and I'm a programmer</h2>
+
+<p align="left">
+  <strong>🎓 Studying Computer Science</strong><br>
+  <em>Focused on websites</em><br>
+  1/3 IFC - Campus Araquari
+</p>
 
 <div align="center">
   <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center;">

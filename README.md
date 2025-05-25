@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is João and I'm a programmer</h2>
+<h2 align="left">Hi👋! My name is João and I'm a Aspiring developer</h2>
 
 <div align="center">
   <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center;">

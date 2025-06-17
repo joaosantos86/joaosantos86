@@ -3,7 +3,7 @@
 <p align="left">
   <strong>🎓 Studying Computer Science</strong><br>
   <em>Focused on websites</em><br>
-  1/3 IFC - Campus Araquari
+  1/3 IFC - campus Araquari
 </p>
 
 

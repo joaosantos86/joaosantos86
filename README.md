@@ -53,7 +53,7 @@
 ">
 
   
-Atividades recentes
+💻 Atividades recentes
 </h2>
 
 [![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=joaosantos86&bg_color=141424&color=00e5ff&line=4fc3f7&point=ffffff&area=true&hide_border=true)](https://github.com/joaosantos86)

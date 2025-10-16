@@ -40,7 +40,7 @@
   gap: 10px;
   margin-top: 10px;
 ">
-<img src="https://skillicons.dev/icons?i=vue,js,html,css,figma" height="70" -m-px />
+<img src="https://skillicons.dev/icons?i=js,html,css" height="70" -m-px />
 
 </div>
 

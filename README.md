@@ -1,4 +1,4 @@
-## 💻 Olá, eu sou o João Pedro!
+## 💻 Olá, eu sou o Jota!
 
 
 Apaixonado por tecnologia, design e desenvolvimento web, sempre buscando transformar ideias em experiências digitais funcionais, bonitas e eficientes.

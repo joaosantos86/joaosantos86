@@ -1,17 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Pedro;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: flex-center;">
+## 📈 Estatísticas do GitHub
+<div style="display: flex; justify-content: space-between; width: 100%;">
     <a href="https://github.com/joaosantos86">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaosantos86&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=00e5ff&hide_border=true"/>
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaosantos86&show_icons=true&bg_color=141424&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true&cache_seconds=3600"/> 
     </a>
-    <a href="https://github.com/joaosantos86">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantos86&layout=donut&bg_color=141424&title_color=00e5ff&text_color=fff&hide_border=true"/>
-    </a>
-  </div>
+      <a href="https://github.com/joaosantos86">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantos86&layout=donut&bg_color=141424&title_color=00e5ff&text_color=ffffff&hide_border=true&cache_seconds=3600"/> 
+     </a>
 </div>
+<div style="display: flex; justify-content: space-between; width: 100%;">
 
-<h2 align="center" style="
+
+<h2 align="left" style="
   display: inline-block;
   border-bottom: 3px solid #0078ff;
   padding-bottom: 6px;
@@ -21,13 +22,11 @@
   
 📘 Languages, Technologies and Skills
 </h2>
-
-<!-- ÍCONES ALINHADOS À ESQUERDA -->
-<div align="center">
+<div align="left">
   <div style="
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: left;
     flex-wrap: wrap;
     gap: 15px;
     margin-top: 10px;
@@ -51,7 +50,7 @@
 <br clear="both">
 
 
-<h2 align="center" style="
+<h2 align="left" style="
   display: inline-block;
   border-bottom: 3px solid #0078ff;
   padding-bottom: 6px;

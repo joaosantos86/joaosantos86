@@ -1,14 +1,4 @@
-## 💻 Olá, eu sou o Jota!
-
-
-Apaixonado por tecnologia, design e desenvolvimento web, sempre buscando transformar ideias em experiências digitais funcionais, bonitas e eficientes.
-
----
-## 👨‍💻 Sobre mim
-- Técnico em **Informática para Internet**  
-- Desenvolvedor focado em **Web e Software**  
-- Sempre explorando novas tecnologias e boas práticas  
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Pedro;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 📈 Estatísticas do GitHub
 <div style="display: flex; justify-content: space-between; width: 100%;">

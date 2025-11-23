@@ -1,15 +1,13 @@
 ## 💻 Olá, eu sou o João Pedro!
 
+
 Apaixonado por tecnologia, design e desenvolvimento web, sempre buscando transformar ideias em experiências digitais funcionais, bonitas e eficientes.
-##
 
-👨‍💻 **Sobre mim**
-
-- Técnico em Informática para Internet  
-- Front-end até o último pixel  
-- Interfaces modernas • UI/UX • animações • performance  
-- Transformo ideias (e projetos pessoais) em produtos reais e bonitos  
-- Curioso, hands-on e viciado em aprender coisas novas
+---
+## 👨‍💻 Sobre mim
+- Técnico em **Informática para Internet**  
+- Desenvolvedor focado em **Web e Software**  
+- Sempre explorando novas tecnologias e boas práticas  
 ##
 
 ## 📈 Estatísticas do GitHub

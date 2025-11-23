@@ -16,7 +16,7 @@ Apaixonado por tecnologia, design e desenvolvimento web, sempre buscando transfo
  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaosantos86&show_icons=true&bg_color=141424&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true&cache_seconds=3600"/> 
     </a>
       <a href="https://github.com/joaosantos86">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantos86&layout=donut&bg_color=141424&title_color=00e5ff&text_color=ffffff&hide_border=true&cache_seconds=3600"/> 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantos86&layout=donut&bg_color=141424&title_color=00e5ff&text_color=ffffff&hide_border=true&cache_seconds=3600&hide=CMAKE,CSS,HTML"/>
      </a>
 </div>
 <div style="display: flex; justify-content: space-between; width: 100%;">

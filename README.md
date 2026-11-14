@@ -82,4 +82,10 @@
 
 **Creating digital experiences one project at a time.**
 
+
+
+<img src="https://komarev.com/ghpvc/?username=joaosantos86&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+
 </div>
+
+

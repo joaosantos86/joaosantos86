@@ -42,7 +42,7 @@
 
 ## GitHub Activity
 
-<div align="center">
+<div align="left">
 
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=joaosantos86&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=1867C0&text_color=ffffff&bg_color=0d1117" />
 

@@ -52,12 +52,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosantos86&bg_color=0d1117&color=ffffff&line=0A66C2&point=1867C0&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Gráfico de atividades no GitHub" />
-
-</div>
-
-<div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaosantos86/joaosantos86/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaosantos86/joaosantos86/output/github-contribution-grid-snake.svg">

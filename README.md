@@ -66,13 +66,6 @@
 
 </div>
 
-### Recent Commits
-
-<!--RECENT_COMMITS:START-->
-No recent public commits found.
-<!--RECENT_COMMITS:END-->
-
----
 
 ## Let's connect
 

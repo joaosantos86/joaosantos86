@@ -30,16 +30,6 @@
 
 ---
 
-## More about me
-
-- 🎨 Interested in **UI/UX and Design Engineering**
-- 💻 Building web applications from interface to backend
-- 🧠 Always learning new technologies and software engineering concepts
-- 🛠️ I like turning ideas and designs into real products
-- 🚀 Currently improving my skills through real projects
-
----
-
 ## GitHub Activity
 
 <div align="left">

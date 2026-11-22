@@ -19,9 +19,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Go-0A66C2?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-1867C0?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-1867C0?style=for-the-badge&logo=figma&logoColor=white">

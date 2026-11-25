@@ -52,10 +52,6 @@
 
 <div>
 
-<a href="https://github.com/joaosantos86">
-<img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-1867C0?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>

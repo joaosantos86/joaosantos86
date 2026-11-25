@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://jotadev-psi.vercel.app/">
+<a href="https://ojota.vercel.app/inicio/">
 <img src="https://img.shields.io/badge/Portfolio-1867C0?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 

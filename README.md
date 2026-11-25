@@ -52,7 +52,7 @@
 
 <div>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/joaosantos86/">
 <img src="https://img.shields.io/badge/LinkedIn-1867C0?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 

@@ -9,7 +9,6 @@ Right now I'm sharpening my frontend and backend skills by shipping real project
 
 <a href="https://ojota.vercel.app/inicio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:joaops41224@gmail.com"><img src="https://img.shields.io/badge/Gmail-1867C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<img src="https://komarev.com/ghpvc/?username=joaosantos86&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile views">
 
 </div>
 
@@ -40,7 +39,7 @@ Right now I'm sharpening my frontend and backend skills by shipping real project
 
 ## GitHub Activity
 
-<div align="center">
+<div align="left">
 
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=joaosantos86&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=1867C0&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaosantos86&layout=compact&hide_border=true&title_color=0A66C2&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
@@ -55,8 +54,6 @@ Right now I'm sharpening my frontend and backend skills by shipping real project
 
 </div>
 
----
-
 <div align="center">
 
 ## Let's connect
@@ -65,10 +62,10 @@ Right now I'm sharpening my frontend and backend skills by shipping real project
 <a href="mailto:joaops41224@gmail.com"><img src="https://img.shields.io/badge/Gmail-1867C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://ojota.vercel.app/inicio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
-<br><br>
 
 ### Design. Code. Build.
 
 <sub>Crafting digital experiences, one project at a time.</sub>
 
+<img src="https://komarev.com/ghpvc/?username=joaosantos86&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile views">
 </div>
